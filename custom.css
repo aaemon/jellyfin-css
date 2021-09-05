@@ -48,6 +48,5 @@
   background-size: cover;
 }
 
-/* Custom border color */
-.emby-input, .emby-textarea, .emby-select { border-color: #d00000; }
-.emby-input:focus, .emby-textarea:focus, .emby-select-withcolor { border-color: #ffffff !important; }
+/* Darken background, only works with blue radiance */
+.backgroundContainer {background-color: #000000; filter: brightness(50%);}
