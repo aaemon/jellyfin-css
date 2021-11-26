@@ -1,0 +1,50 @@
+.headerSyncButton { display: none; }
+
+#loginPage .readOnlyContent, #loginPage form {max-width: 22em;}
+#loginPage h1 {display: none}
+#loginPage .padded-left.padded-right.padded-bottom-page {margin-top: 50px}
+#loginPage .raised.cancel.block.btnManual.emby-button {display: none}
+#loginPage .raised.cancel.block.btnForgotPassword.emby-button {display: none}
+
+.cardContent-button, 
+.cardContent-shadow, 
+.itemDetailImage, 
+.cardOverlayButton-hover, 
+.cardOverlayContainer,
+.cardImageContainer,
+.cardPadder,
+.listItemImage,
+.listItemImageButton,
+.listItemButton,
+.headerButton,
+.paper-icon-button-light,
+.innerCardFooter,
+.blurhash-canvas,
+.actionSheetMenuItem:hover,
+.dialog
+{border-radius: 1em !important;}
+
+.listItemImage.listItemImage-large.itemAction.lazy {height: 110px;}
+.listItem-content {height: 115px;}
+.secondary.listItem-overview.listItemBodyText {height: 61px; margin: 0;}
+
+.headerTabs.sectionTabs {text-size-adjust: 250%;  font-size: 100%;}
+.pageTitle {margin-top: auto; margin-bottom: auto;}
+
+.headerTabs {
+-webkit-align-self:center;
+align-self:center;
+width:auto;
+-webkit-align-items:center; 
+align-items:center; 
+-webkit-justify-content:center; 
+justify-content:center;
+position:relative;
+margin-top:-4.3em;
+ }
+
+html {zoom: 80%;}
+
+.portraitCard, .squareCard {
+    width: 12.5%;
+}
