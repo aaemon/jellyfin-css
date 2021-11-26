@@ -28,7 +28,7 @@
 .listItem-content {height: 115px;}
 .secondary.listItem-overview.listItemBodyText {height: 61px; margin: 0;}
 
-.headerTabs.sectionTabs {text-size-adjust: 250%;  font-size: 100%;}
+.headerTabs.sectionTabs {text-size-adjust: 100%;  font-size: 100%;}
 .pageTitle {margin-top: auto; margin-bottom: auto;}
 
 .headerTabs {
