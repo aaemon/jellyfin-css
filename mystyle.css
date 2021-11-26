@@ -48,3 +48,5 @@ html {zoom: 80%;}
 .portraitCard, .squareCard {
     width: 12.5%;
 }
+
+.backgroundContainer {background-color: #000000; filter: brightness(50%);}
