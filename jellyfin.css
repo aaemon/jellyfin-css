@@ -1791,11 +1791,6 @@ button {
 
 .backgroundContainer {background-color: #000000; filter: brightness(50%);}
 
-@media (max-width:80em) {
-  html {
-    zoom: 75%;
-  }
-}
 
 
 
