@@ -234,7 +234,7 @@
   left:20em
  }
 }
-@media (max-width:80em) {
+/* @media (max-width:80em) {
  .withSectionTabs .headerTop {
   padding-bottom:.55em
  }
@@ -244,7 +244,7 @@
  .layout-tv .sectionTabs {
   width:100%
  }
-}
+} */
 @media (min-width:80em) {
  .headerTop {
   padding:.8em
@@ -1637,33 +1637,6 @@ button {
     }
    }
    @media (orientation:landscape) and (min-width:50em) {
-    .overflowSmallBackdropCard {
-     width:15.5vw
-    }
-   }
-   @media (min-width:50em) {
-    .overflowPortraitCard,
-    .overflowSquareCard {
-     width:18.5vw
-    }
-   }
-   @media (min-width:75em) {
-    .overflowBackdropCard,
-    .overflowSmallBackdropCard {
-     width:23.1vw
-    }
-    .overflowPortraitCard,
-    .overflowSquareCard {
-     width:15.5vw
-    }
-   }
-   @media (min-width:87.5em) {
-    .overflowPortraitCard,
-    .overflowSquareCard {
-     width:13.3vw
-    }
-   }
-   @media (min-width:100em) {
     .overflowBackdropCard,
     .overflowSmallBackdropCard {
      width:18.7vw
@@ -1791,6 +1764,21 @@ button {
 
 .backgroundContainer {background-color: #000000; filter: brightness(50%);}
 
+body {
+    font-size: 80%;
+}
+
+
+/* @media (min-width:80em) {
+    html {
+        zoom: 75%;
+    }
+}
+@media (max-width:100em) {
+    html {
+        zoom: 75%;
+    }
+} */
 
 
 
