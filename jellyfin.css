@@ -964,11 +964,11 @@ div:not(.sectionTitleContainer-cards)>.sectionTitle-cards {
  padding-bottom:1.5em;
  margin-bottom:-1.5em
 }
-@media (min-height:31.25em) {
+/* @media (min-height:31.25em) {
  .padded-right-withalphapicker {
   padding-right:7.5%
  }
-}
+} */
 .searchfields-icon {
  color:#aaa
 }
@@ -1614,22 +1614,6 @@ button {
      width:23.1vw
     }
    }
-   @media (min-width:48.125em) {
-    .overflowBackdropCard,
-    .overflowSmallBackdropCard {
-     width:30vw
-    }
-   }
-   @media (orientation:landscape) {
-    .overflowBackdropCard,
-    .overflowSmallBackdropCard {
-     width:30vw
-    }
-    .overflowPortraitCard,
-    .overflowSquareCard {
-     width:23.1vw
-    }
-   }
    @media (orientation:landscape) and (min-width:48.125em) {
     .overflowBackdropCard,
     .overflowSmallBackdropCard {
@@ -1637,6 +1621,33 @@ button {
     }
    }
    @media (orientation:landscape) and (min-width:50em) {
+    .overflowSmallBackdropCard {
+     width:15.5vw
+    }
+   }
+   @media (min-width:50em) {
+    .overflowPortraitCard,
+    .overflowSquareCard {
+     width:18.5vw
+    }
+   }
+   @media (min-width:75em) {
+    .overflowBackdropCard,
+    .overflowSmallBackdropCard {
+     width:23.1vw
+    }
+    .overflowPortraitCard,
+    .overflowSquareCard {
+     width:15.5vw
+    }
+   }
+   /* @media (min-width:87.5em) {
+    .overflowPortraitCard,
+    .overflowSquareCard {
+     width:13.3vw
+    }
+   } */
+   @media (min-width:80em) {
     .overflowBackdropCard,
     .overflowSmallBackdropCard {
      width:18.7vw
