@@ -1740,7 +1740,10 @@ button {
 
 
 
-.headerSyncButton { display: none; }
+#.headerSyncButton { display: none; }
+.layout-mobile .itemExternalLinks {
+    display: block !important;
+}
 
 #loginPage .readOnlyContent, #loginPage form {max-width: 22em;}
 #loginPage h1 {display: none}
@@ -1780,16 +1783,6 @@ body {
 }
 
 
-/* @media (min-width:80em) {
-    html {
-        zoom: 75%;
-    }
-}
-@media (max-width:100em) {
-    html {
-        zoom: 75%;
-    }
-} */
 
 
 
