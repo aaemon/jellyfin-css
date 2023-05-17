@@ -1041,11 +1041,11 @@ div:not(.sectionTitleContainer-cards)>.sectionTitle-cards {
  margin-bottom:-1.5em;
  padding-bottom:1.5em
 }
-@media (min-height:31.25em) {
+/* @media (min-height:31.25em) {
  .padded-right-withalphapicker {
   padding-right:7.5%
  }
-}
+} */
 .searchfields-icon {
  color:#aaa
 }
