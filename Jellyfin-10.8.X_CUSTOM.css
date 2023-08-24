@@ -2012,11 +2012,6 @@ button::-moz-focus-inner {
     margin-bottom: auto;
 }
 
-.backgroundContainer {
-    background-color: #000000;
-    filter: brightness(50%);
-}
-
 body {
     font-size: 80%;
 }
