@@ -2465,10 +2465,6 @@ button::-moz-focus-inner {
     margin-top: 50px
 }
 
-#loginPage .raised.cancel.block.btnManual.emby-button {
-    display: none
-}
-
 #loginPage .raised.cancel.block.btnForgotPassword.emby-button {
     display: none
 }
