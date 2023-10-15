@@ -2032,7 +2032,7 @@ button[is="emby-button"].btnQuick {
   display: none;
 }
 #loginPage {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://assets.nflxext.com/ffe/siteui/vlv3/ab180a27-b661-44d7-a6d9-940cb32f2f4a/c31ea4ac-8a9c-44df-a5ce-7cec6bff2356/BD-en-20231009-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://raw.githubusercontent.com/aaemon/jellyfin-css/main/assets/background1.jpg');
   background-size: cover;
 }
 
