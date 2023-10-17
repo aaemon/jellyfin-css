@@ -2035,5 +2035,10 @@ button[is="emby-button"].btnQuick {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://raw.githubusercontent.com/aaemon/jellyfin-css/main/assets/background1.jpg');
   background-size: cover;
 }
-
+a.button-link.emby-button[href="https://jellyfin.org"] {
+  display: none;
+}
+.pageTitleWithDefaultLogo {
+    background-image: url(../../assets/img/piflix_banner-dark.png);
+}
 
