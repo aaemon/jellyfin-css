@@ -286,13 +286,13 @@
 
 @media (min-height:31.25em) {
     [dir=ltr] .padded-right-withalphapicker {
-        padding-right: 5%;
-        padding-right: max(env(safe-area-inset-right), 5%)
+        padding-right: 3.3%;
+        padding-right: max(env(safe-area-inset-right), 3.3%)
     }
 
     [dir=rtl] .padded-right-withalphapicker {
-        padding-left: 5%;
-        padding-left: max(env(safe-area-inset-left), 5%)
+        padding-left: 3.3%;
+        padding-left: max(env(safe-area-inset-left), 3.3%)
     }
 }
 
