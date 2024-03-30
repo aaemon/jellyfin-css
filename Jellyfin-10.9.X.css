@@ -1,195 +1,188 @@
-@media (min-width:25em) {
-    .backdropCard {
-        width: 50%
-    }
+@media (min-width: 25em) {
+	.backdropCard {
+		width: 50%;
+	}
 }
 
-@media (min-width:31.25em) {
-
-    .portraitCard,
-    .smallBackdropCard,
-    .squareCard {
-        width: 33.333333333333336%
-    }
+@media (min-width: 31.25em) {
+	.portraitCard,
+	.smallBackdropCard,
+	.squareCard {
+		width: 33.333333333333336%;
+	}
 }
 
-@media (min-width:43.75em) {
-
-    .portraitCard,
-    .squareCard {
-        width: 25%
-    }
+@media (min-width: 43.75em) {
+	.portraitCard,
+	.squareCard {
+		width: 25%;
+	}
 }
 
-@media (min-width:48.125em) {
-    .backdropCard {
-        width: 33.333333333333336%
-    }
+@media (min-width: 48.125em) {
+	.backdropCard {
+		width: 33.333333333333336%;
+	}
 }
 
-@media (min-width:50em) {
-    .bannerCard {
-        width: 50%
-    }
+@media (min-width: 50em) {
+	.bannerCard {
+		width: 50%;
+	}
 
-    .portraitCard,
-    .squareCard {
-        width: 20%
-    }
+	.portraitCard,
+	.squareCard {
+		width: 20%;
+	}
 
-    .smallBackdropCard {
-        width: 25%
-    }
+	.smallBackdropCard {
+		width: 25%;
+	}
 }
 
-@media (min-width:62.5em) {
-    .smallBackdropCard {
-        width: 20%
-    }
+@media (min-width: 62.5em) {
+	.smallBackdropCard {
+		width: 20%;
+	}
 }
 
-@media (min-width:75em) {
-    .backdropCard {
-        width: 25%
-    }
+@media (min-width: 75em) {
+	.backdropCard {
+		width: 25%;
+	}
 
-    .portraitCard,
-    .squareCard {
-        width: 16.666666666666668%
-    }
+	.portraitCard,
+	.squareCard {
+		width: 16.666666666666668%;
+	}
 
-    .bannerCard {
-        width: 33.333333333333336%
-    }
+	.bannerCard {
+		width: 33.333333333333336%;
+	}
 
-    .smallBackdropCard {
-        width: 16.666666666666668%
-    }
+	.smallBackdropCard {
+		width: 16.666666666666668%;
+	}
 }
 
-@media (min-width:80em) {
-    .smallBackdropCard {
-        width: 12.5%
-    }
+@media (min-width: 80em) {
+	.smallBackdropCard {
+		width: 12.5%;
+	}
 
-    .backdropCard {
-        width: 20%
-    }
+	.backdropCard {
+		width: 20%;
+	}
 
-    .portraitCard,
-    .squareCard {
-        width: 12.5%
-    }
+	.portraitCard,
+	.squareCard {
+		width: 12.5%;
+	}
 }
 
-@media (min-width:120em) {
-
-    .portraitCard,
-    .squareCard {
-        width: 11.11111111111111%
-    }
+@media (min-width: 120em) {
+	.portraitCard,
+	.squareCard {
+		width: 11.11111111111111%;
+	}
 }
 
-@media (min-width:131.25em) {
-    .bannerCard {
-        width: 25%
-    }
+@media (min-width: 131.25em) {
+	.bannerCard {
+		width: 25%;
+	}
 
-    .portraitCard,
-    .squareCard {
-        width: 10%
-    }
+	.portraitCard,
+	.squareCard {
+		width: 10%;
+	}
 }
 
-@media (min-width:156.25em) {
-    .backdropCard {
-        width: 16.666666666666668%
-    }
+@media (min-width: 156.25em) {
+	.backdropCard {
+		width: 16.666666666666668%;
+	}
 }
 
-.itemsContainer-tv>.backdropCard {
-    width: 25%
+.itemsContainer-tv > .backdropCard {
+	width: 25%;
 }
 
-.itemsContainer-tv>.squareCard {
-    width: 16.666666666666668%
+.itemsContainer-tv > .squareCard {
+	width: 16.666666666666668%;
 }
 
-.itemsContainer-tv>.portraitCard {
-    width: 16.666666666666668%
+.itemsContainer-tv > .portraitCard {
+	width: 16.666666666666668%;
 }
 
 .overflowBackdropCard,
 .overflowSmallBackdropCard {
-    width: 72vw
+	width: 72vw;
 }
 
 .overflowPortraitCard,
 .overflowSquareCard {
-    width: 40vw
+	width: 40vw;
 }
 
-@media (min-width:25em) {
-    .overflowPortraitCard {
-        width: 31.2vw
-    }
+@media (min-width: 25em) {
+	.overflowPortraitCard {
+		width: 31.2vw;
+	}
 }
 
-@media (min-width:35em) {
-    .overflowSquareCard {
-        width: 31.2vw
-    }
+@media (min-width: 35em) {
+	.overflowSquareCard {
+		width: 31.2vw;
+	}
 
-    .overflowBackdropCard {
-        width: 45.5vw
-    }
+	.overflowBackdropCard {
+		width: 45.5vw;
+	}
 
-    .overflowSmallBackdropCard {
-        width: 30vw
-    }
+	.overflowSmallBackdropCard {
+		width: 30vw;
+	}
 }
 
-@media (min-width:43.75em) {
-
-    .overflowPortraitCard,
-    .overflowSquareCard {
-        width: 23.1vw
-    }
+@media (min-width: 43.75em) {
+	.overflowPortraitCard,
+	.overflowSquareCard {
+		width: 23.1vw;
+	}
 }
 
-@media (orientation:landscape) and (min-width:48.125em) {
-
-    .overflowBackdropCard,
-    .overflowSmallBackdropCard {
-        width: 23.1vw
-    }
+@media (orientation: landscape) and (min-width: 48.125em) {
+	.overflowBackdropCard,
+	.overflowSmallBackdropCard {
+		width: 23.1vw;
+	}
 }
 
-@media (orientation:landscape) and (min-width:50em) {
-    .overflowSmallBackdropCard {
-        width: 15.5vw
-    }
+@media (orientation: landscape) and (min-width: 50em) {
+	.overflowSmallBackdropCard {
+		width: 15.5vw;
+	}
 }
 
-@media (min-width:50em) {
-
-    .overflowPortraitCard,
-    .overflowSquareCard {
-        width: 18.5vw
-    }
+@media (min-width: 50em) {
+	.overflowPortraitCard,
+	.overflowSquareCard {
+		width: 18.5vw;
+	}
 }
 
-@media (min-width:75em) {
+@media (min-width: 75em) {
+	.overflowBackdropCard,
+	.overflowSmallBackdropCard {
+		width: 23.1vw;
+	}
 
-    .overflowBackdropCard,
-    .overflowSmallBackdropCard {
-        width: 23.1vw
-    }
-
-    .overflowPortraitCard,
-    .overflowSquareCard {
-        width: 15.5vw
-    }
+	.overflowPortraitCard,
+	.overflowSquareCard {
+		width: 15.5vw;
+	}
 }
 
 /* @media (min-width:87.5em) {
@@ -198,123 +191,118 @@
      width:13.3vw
     }
    } */
-@media (min-width:80em) {
+@media (min-width: 80em) {
+	.overflowBackdropCard,
+	.overflowSmallBackdropCard {
+		width: 18.7vw;
+	}
 
-    .overflowBackdropCard,
-    .overflowSmallBackdropCard {
-        width: 18.7vw
-    }
-
-    .overflowPortraitCard,
-    .overflowSquareCard {
-        width: 11.6vw
-    }
+	.overflowPortraitCard,
+	.overflowSquareCard {
+		width: 11.6vw;
+	}
 }
 
-@media (min-width:120em) {
-
-    .overflowPortraitCard,
-    .overflowSquareCard {
-        width: 10.41vw
-    }
+@media (min-width: 120em) {
+	.overflowPortraitCard,
+	.overflowSquareCard {
+		width: 10.41vw;
+	}
 }
 
-@media (min-width:131.25em) {
-
-    .overflowPortraitCard,
-    .overflowSquareCard {
-        width: 9.3vw
-    }
+@media (min-width: 131.25em) {
+	.overflowPortraitCard,
+	.overflowSquareCard {
+		width: 9.3vw;
+	}
 }
 
-@media (min-width:156.25em) {
-
-    .overflowBackdropCard,
-    .overflowSmallBackdropCard {
-        width: 15.6vw
-    }
+@media (min-width: 156.25em) {
+	.overflowBackdropCard,
+	.overflowSmallBackdropCard {
+		width: 15.6vw;
+	}
 }
 
+@media (min-width: 80em) {
+	.headerTop {
+		padding: 0.8em 0.8em;
+	}
 
-@media (min-width:80em) {
-    .headerTop {
-        padding: .8em .8em;
-    }
+	.headerTabs {
+		-webkit-align-items: center;
+		align-items: center;
+		-webkit-align-self: center;
+		align-self: center;
+		-webkit-justify-content: center;
+		justify-content: center;
+		margin-top: -4.3em;
+		position: relative;
+		width: auto;
+	}
 
-    .headerTabs {
-        -webkit-align-items: center;
-        align-items: center;
-        -webkit-align-self: center;
-        align-self: center;
-        -webkit-justify-content: center;
-        justify-content: center;
-        margin-top: -4.3em;
-        position: relative;
-        width: auto
-    }
+	.libraryPage:not(.noSecondaryNavPage) {
+		padding-top: 4.6em !important;
+	}
 
-    .libraryPage:not(.noSecondaryNavPage) {
-        padding-top: 4.6em !important
-    }
+	.pageWithAbsoluteTabs:not(.noSecondaryNavPage) {
+		padding-top: 6.7em !important;
+	}
 
-    .pageWithAbsoluteTabs:not(.noSecondaryNavPage) {
-        padding-top: 6.7em !important
-    }
+	.absolutePageTabContent {
+		top: 5.7em !important;
+	}
 
-    .absolutePageTabContent {
-        top: 5.7em !important
-    }
-
-    .dashboardDocument .mainDrawer-scrollContainer {
-        margin-top: 4.65em !important
-    }
+	.dashboardDocument .mainDrawer-scrollContainer {
+		margin-top: 4.65em !important;
+	}
 }
 
-@media (max-width:80em) {
-    .withSectionTabs .headerTop {
-        padding-bottom: .55em
-    }
+@media (max-width: 80em) {
+	.withSectionTabs .headerTop {
+		padding-bottom: 0.55em;
+	}
 
-    .sectionTabs {
-        font-size: 83.5%
-    }
+	.sectionTabs {
+		font-size: 83.5%;
+	}
 
-    .layout-tv .sectionTabs {
-        width: 100%
-    }
+	.layout-tv .sectionTabs {
+		width: 100%;
+	}
 }
 
-@media (min-height:31.25em) {
-    [dir=ltr] .padded-right-withalphapicker {
-        padding-right: 3.3%;
-        padding-right: max(env(safe-area-inset-right), 3.3%)
-    }
+@media (min-height: 31.25em) {
+	[dir="ltr"] .padded-right-withalphapicker {
+		padding-right: 3.3%;
+		padding-right: max(env(safe-area-inset-right), 3.3%);
+	}
 
-    [dir=rtl] .padded-right-withalphapicker {
-        padding-left: 3.3%;
-        padding-left: max(env(safe-area-inset-left), 3.3%)
-    }
+	[dir="rtl"] .padded-right-withalphapicker {
+		padding-left: 3.3%;
+		padding-left: max(env(safe-area-inset-left), 3.3%);
+	}
 }
 
 .layout-mobile .itemExternalLinks {
-    display: block !important;
+	display: block !important;
 }
 
 #loginPage .readOnlyContent,
 #loginPage form {
-    max-width: 22em;
+	max-width: 22em;
 }
 
 #loginPage h1 {
-    display: none
+	display: none;
 }
 
 #loginPage .padded-left.padded-right.padded-bottom-page {
-    margin-top: 50px
+	margin-top: 50px;
 }
 
 #loginPage .raised.cancel.block.btnForgotPassword.emby-button {
-    display: none
+	display: none;
 }
 
 .cardContent-button,
@@ -333,41 +321,52 @@
 .blurhash-canvas,
 .actionSheetMenuItem:hover,
 .dialog {
-    border-radius: 1em !important;
+	border-radius: 1em !important;
 }
 
 .listItemImage.listItemImage-large.itemAction.lazy {
-    height: 110px;
+	height: 110px;
 }
 
 .listItem-content {
-    height: 115px;
+	height: 115px;
 }
 
 .secondary.listItem-overview.listItemBodyText {
-    height: 61px;
-    margin: 0;
+	height: 61px;
+	margin: 0;
 }
 
 .headerTabs.sectionTabs {
-    text-size-adjust: 100%;
-    font-size: 100%;
+	text-size-adjust: 100%;
+	font-size: 100%;
 }
 
 .pageTitle {
-    margin-top: auto;
-    margin-bottom: auto;
-}
-
-body {
-    font-size: 80%;
+	margin-top: auto;
+	margin-bottom: auto;
 }
 
 button[data-id="quality"].emby-button {
-    display: none;
+	display: none;
 }
 
 #loginPage {
-    background: url('https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4');
-    background-size: cover;
+	background: url("https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4");
+	background-size: cover;
+}
+
+.detailLogo {
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 14vh;
+	position: absolute;
+	right: 25vw;
+	top: 10vh;
+	width: 25vw;
+}
+
+body {
+	font-size: 90%;
 }
