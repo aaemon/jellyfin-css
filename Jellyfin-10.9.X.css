@@ -376,9 +376,6 @@ button[data-id="quality"].emby-button {
 	.dashboardDocument .mainDrawerButton {
 		display: none !important;
 	}
-	body {
-		font-size: 90%;
-	}
 	.dashboardDocument .mainDrawer {
 		box-shadow: none !important;
 		font-size: 94%;
@@ -405,7 +402,7 @@ button[data-id="quality"].emby-button {
 		right: 20em;
 	}
 }
-@media (max-width: 100em) {
+@media (max-width: 87.5em) {
 	.withSectionTabs .headerTop {
 		padding-bottom: 0.55em;
 	}
