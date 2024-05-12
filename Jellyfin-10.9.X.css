@@ -416,3 +416,6 @@ button[data-id="quality"].emby-button {
 		width: 100%;
 	}
 }
+.backgroundContainer.withBackdrop {
+    background-color: rgb(0 0 0 / 85%);
+}
