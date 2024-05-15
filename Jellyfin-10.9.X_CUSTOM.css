@@ -417,3 +417,9 @@ button[data-id="quality"].emby-button {
 	}
 }
 
+.backgroundContainer.withBackdrop {
+    background-color: rgb(0 0 0 / 80%);
+}
+.skinHeader-withBackground {
+    background-color: #202020b0;
+}
