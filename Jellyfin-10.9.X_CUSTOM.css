@@ -413,10 +413,31 @@ button[data-id="quality"].emby-button {
 		width: 100%;
 	}
 }
+.layout-mobile .itemExternalLinks {
+  display: block !important;
+}
 
 .backgroundContainer.withBackdrop {
-    background-color: rgb(0 0 0 / 80%);
+    background-color: rgb(0 0 0 / 75%);
 }
 .skinHeader-withBackground {
     background-color: #202020b0;
+}
+
+.headerButton.headerButtonRight.paper-icon-button-light.headerUserButtonRound {
+    pointer-events: none;
+    opacity: 0.5; /* This makes the button appear disabled. Adjust the value as needed */
+}
+a.navMenuOption.lnkMediaFolder.btnSettings.emby-button[data-itemid="settings"] {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    width: 0 !important;
+    overflow: hidden !important;
+    position: absolute !important;
+}
+
+/* fixed navbar in mobile view */
+.headerTop {
+  padding:.54em 0 0 0;
 }

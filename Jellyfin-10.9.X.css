@@ -225,6 +225,9 @@
 }
 
 @media (min-width: 80em) {
+	.headerTop {
+		padding: 0.8em 0.8em;
+	}
 
 	.headerTabs {
 		-webkit-align-items: center;
@@ -414,3 +417,7 @@ button[data-id="quality"].emby-button {
 	}
 }
 
+/* fixed navbar in mobile view */
+.headerTop {
+	padding:.54em 0 0 0;
+  }
