@@ -441,3 +441,10 @@ a.navMenuOption.lnkMediaFolder.btnSettings.emby-button[data-itemid="settings"] {
 .headerTop {
   padding:.54em 0 0 0;
 }
+.btnShuffle,
+.btnSelectView,
+.btnSort {
+  pointer-events: none;
+  opacity: 0.5;
+  cursor: not-allowed;
+}
