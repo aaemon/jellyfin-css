@@ -461,14 +461,16 @@ button[data-id="addtoplaylist"].emby-button {
 }
 
 
-/* remove username and add click here text */
-.cardText::before {
-    content: 'Click here to login!';
+
+/* replace username with click here to login */
+.cardFooter .cardText.singleCardText.cardTextCentered {
+    color: transparent; 
+}
+
+.cardFooter .cardText.singleCardText.cardTextCentered::before {
+    content: 'Click here to login';
     display: block;
     text-align: center;
-    color: white; /* Ensure the text is visible on a dark background */
-}
-.cardText {
-    color: transparent; /* Hide the original text */
+    color: white; 
 }
 
